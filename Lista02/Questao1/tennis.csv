@@ -1,0 +1,15 @@
+Individuo,Historia de Crédito,Dívida,Garantia,Renda,Risco
+E1,Ruim,Alta,Nenhuma,0-15,Alto
+E2,Desconhecida,Alta,Nenhuma,15-35,Alto
+E3,Desconhecida,Baixa,Nenhuma,15-35,Moderado
+E4,Desconhecida,Baixa,Nenhuma,0-15,Alto
+E5,Desconhecida,Baixa,Nenhuma,35+,Baixo
+E6,Desconhecida,Baixa,Adquada,35+,Baixo
+E7,Ruim,Baixa,Nenhuma,0-15,Alto
+E8,Ruim,Baixa,Adquada,35+,Moderado
+E9,Boa,Baixa,Nenhuma,35+,Baixo
+E10,Boa,Alta,Adquada,35+,Baixo
+E11,Boa,Alta,Nenhuma,0-15,Alto
+E12,Boa,Alta,Nenhuma,15-35,Moderado
+E13,Boa,Alta,Nenhuma,35+,Baixo
+E14,Ruim,Alta,Nenhuma,15-35,Alto
